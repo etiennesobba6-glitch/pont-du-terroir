@@ -1,0 +1,107 @@
+:root {
+  --vert: #1b7f4b;
+  --vert-clair: #e6f4ec;
+  --jaune: #f2b705;
+  --texte: #1d2a24;
+  --fond: #f7faf8;
+  --carte: #ffffff;
+  --bord: #d5e3da;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: var(--fond);
+  color: var(--texte);
+  line-height: 1.5;
+}
+
+.entete {
+  background: var(--vert);
+  color: #fff;
+  padding: 24px 16px 20px;
+  text-align: center;
+  border-bottom: 4px solid var(--jaune);
+}
+.entete h1 { margin: 0; font-size: 1.6rem; }
+.sous-titre { margin: 4px 0 0; opacity: .9; font-size: .95rem; }
+
+main { max-width: 640px; margin: 0 auto; padding: 16px; }
+
+h2 { font-size: 1.1rem; margin: 24px 0 10px; }
+
+.langues {
+  display: flex;
+  align-items: flex-end;
+  gap: 8px;
+  background: var(--carte);
+  border: 1px solid var(--bord);
+  border-radius: 14px;
+  padding: 12px;
+}
+.champ { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+.champ label { font-size: .8rem; color: #55675c; }
+select {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid var(--bord);
+  border-radius: 10px;
+  background: #fff;
+}
+.inverser {
+  border: none;
+  background: var(--vert-clair);
+  color: var(--vert);
+  font-size: 1.3rem;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.recherche { margin-top: 14px; }
+.recherche input {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 1rem;
+  border: 1px solid var(--bord);
+  border-radius: 12px;
+}
+
+.categories {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+.carte {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px;
+  background: var(--carte);
+  border: 1px solid var(--bord);
+  border-radius: 14px;
+  text-decoration: none;
+  color: var(--texte);
+  font-weight: 600;
+}
+.carte:active { background: var(--vert-clair); }
+.icone { font-size: 1.5rem; }
+
+.encart {
+  background: var(--vert-clair);
+  border-left: 5px solid var(--vert);
+  border-radius: 12px;
+  padding: 14px 16px;
+}
+.phrase { margin: 0; font-size: 1.1rem; font-weight: 600; }
+.traduction { margin: 6px 0 0; color: #3d5a49; font-style: italic; }
+
+.pied { text-align: center; padding: 20px 16px 32px; color: #6b7d72; font-size: .85rem; }
+
+@media (min-width: 560px) {
+  .categories { grid-template-columns: repeat(4, 1fr); }
+}
