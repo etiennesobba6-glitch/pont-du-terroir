@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s01-01",
+  "fr": "Bonjour !",
+  "en": "Hello!",
+  "moundang": "Mo cee ɓe ne?"
+ },
+ {
+  "id": "s01-02",
+  "fr": "Bonsoir !",
+  "en": "Good evening!",
+  "moundang": "Mo kaa lil ɗəne?"
+ },
+ {
+  "id": "s01-03",
+  "fr": "Bonne nuit !",
+  "en": "Good night!",
+  "moundang": "Mo swə swuŋ jam o."
+ },
+ {
+  "id": "s01-04",
+  "fr": "Salut !",
+  "en": "Hi!",
+  "moundang": "Me haozah wol ɓo ɓe."
+ },
+ {
+  "id": "s01-05",
+  "fr": "Bienvenue !",
+  "en": "Welcome!",
+  "moundang": "Mo syee jam o."
+ },
+ {
+  "id": "s01-06",
+  "fr": "Comment vas-tu ?",
+  "en": "How are you?",
+  "moundang": "Mo ga ɗəne?"
+ },
+ {
+  "id": "s01-07",
+  "fr": "Je vais bien, merci.",
+  "en": "I am fine, thank you.",
+  "moundang": "Me no jam, soko."
+ },
+ {
+  "id": "s01-08",
+  "fr": "Et toi ?",
+  "en": "And you?",
+  "moundang": "Ma ɓo mo ga ɗəne?"
+ },
+ {
+  "id": "s01-09",
+  "fr": "Très bien, merci.",
+  "en": "Very well, thank you.",
+  "moundang": "Pəswah pəlii."
+ },
+ {
+  "id": "s01-10",
+  "fr": "Comment t'appelles-tu ?",
+  "en": "What is your name?",
+  "moundang": "A ɗiira mo ɗene?"
+ },
+ {
+  "id": "s01-11",
+  "fr": "Je m'appelle Étienne.",
+  "en": "My name is Etienne.",
+  "moundang": "A ɗiira me ne Etienne."
+ },
+ {
+  "id": "s01-12",
+  "fr": "Enchanté de faire ta connaissance.",
+  "en": "Nice to meet you.",
+  "moundang": "Me laa pə'nyãh ne tan mo ɓe?"
+ },
+ {
+  "id": "s01-13",
+  "fr": "D'où viens-tu ?",
+  "en": "Where are you from?",
+  "moundang": "Yaŋ ɓo a kẽne?"
+ },
+ {
+  "id": "s01-14",
+  "fr": "Je viens du Cameroun.",
+  "en": "I am from Cameroon.",
+  "moundang": "Me ur Kamerun."
+ },
+ {
+  "id": "s01-15",
+  "fr": "Où habites-tu ?",
+  "en": "Where do you live?",
+  "moundang": "Mo kaa ɓo kẽne?"
+ },
+ {
+  "id": "s01-16",
+  "fr": "J'habite à Guider.",
+  "en": "I live in Guider.",
+  "moundang": "Ame Guider."
+ },
+ {
+  "id": "s01-17",
+  "fr": "Quel âge as-tu ?",
+  "en": "How old are you?",
+  "moundang": "Mo ne syii kəɗəne?"
+ },
+ {
+  "id": "s01-18",
+  "fr": "J'ai trente ans.",
+  "en": "I am thirty years old.",
+  "moundang": "Me nə syii jama sai."
+ },
+ {
+  "id": "s01-19",
+  "fr": "Au revoir !",
+  "en": "Goodbye!",
+  "moundang": "Mo ge jam o."
+ },
+ {
+  "id": "s01-20",
+  "fr": "À bientôt !",
+  "en": "See you soon!",
+  "moundang": "Sai pel o."
+ }
+]

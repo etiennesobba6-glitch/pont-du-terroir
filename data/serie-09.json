@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s09-01",
+  "fr": "Combien dois-je payer ?",
+  "en": "How much do I have to pay?",
+  "moundang": "Me soo kəɗəne?"
+ },
+ {
+  "id": "s09-02",
+  "fr": "Voici l'argent.",
+  "en": "Here is the money.",
+  "moundang": "Lak ah nyẽeno."
+ },
+ {
+  "id": "s09-03",
+  "fr": "Gardez la monnaie.",
+  "en": "Keep the change.",
+  "moundang": "Mo soɓ təcon suŋgu ah o."
+ },
+ {
+  "id": "s09-04",
+  "fr": "Je n'ai pas assez d'argent.",
+  "en": "I don't have enough money.",
+  "moundang": "Me ka ne lak pəlli ya."
+ },
+ {
+  "id": "s09-05",
+  "fr": "Je paierai demain.",
+  "en": "I will pay tomorrow.",
+  "moundang": "Me soo tə'nan ba."
+ },
+ {
+  "id": "s09-06",
+  "fr": "Acceptez-vous les cartes bancaires ?",
+  "en": "Do you accept bank cards?",
+  "moundang": "Me gak soo ne kartə baŋk no ne?"
+ },
+ {
+  "id": "s09-07",
+  "fr": "Je paie en espèces.",
+  "en": "I am paying in cash.",
+  "moundang": "Me ga soo ne solai."
+ },
+ {
+  "id": "s09-08",
+  "fr": "Le prix est raisonnable.",
+  "en": "The price is reasonable.",
+  "moundang": "Lee ah pəsãh no."
+ },
+ {
+  "id": "s09-09",
+  "fr": "C'est une bonne affaire.",
+  "en": "It is a good deal.",
+  "moundang": "Luma ah syee ɓe."
+ },
+ {
+  "id": "s09-10",
+  "fr": "Le prix est fixe.",
+  "en": "The price is fixed.",
+  "moundang": "Lee ah ka kwən a."
+ },
+ {
+  "id": "s09-11",
+  "fr": "Pouvez-vous faire une réduction ?",
+  "en": "Can you give me a discount?",
+  "moundang": "Mo gak nəə ga lal no ne?"
+ },
+ {
+  "id": "s09-12",
+  "fr": "C'est trop cher pour moi.",
+  "en": "It is too expensive for me.",
+  "moundang": "Lee ah kal swah ɓe ɓe."
+ },
+ {
+  "id": "s09-13",
+  "fr": "J'ai seulement cette somme.",
+  "en": "I only have this amount.",
+  "moundang": "Daŋ lak ɓe ye nyẽe ko."
+ },
+ {
+  "id": "s09-14",
+  "fr": "Avez-vous de la monnaie ?",
+  "en": "Do you have change?",
+  "moundang": "Mo ne kwən suŋngu no ne?"
+ },
+ {
+  "id": "s09-15",
+  "fr": "Voici votre reçu.",
+  "en": "Here is your receipt.",
+  "moundang": "Ɗerewol soo lak ɓo nyee sye."
+ },
+ {
+  "id": "s09-16",
+  "fr": "Merci pour votre paiement.",
+  "en": "Thank you for your payment.",
+  "moundang": "Soko mor ɓə soo mai mo soo."
+ },
+ {
+  "id": "s09-17",
+  "fr": "Le paiement est effectué.",
+  "en": "The payment is completed.",
+  "moundang": "Soo ah syee ɓe."
+ },
+ {
+  "id": "s09-18",
+  "fr": "Je vais retirer de l'argent.",
+  "en": "I am going to withdraw money.",
+  "moundang": "Me ga ɓaŋ lakre."
+ },
+ {
+  "id": "s09-19",
+  "fr": "Mon portefeuille est vide.",
+  "en": "My wallet is empty.",
+  "moundang": "Dah ɓe a təkolle."
+ },
+ {
+  "id": "s09-20",
+  "fr": "L'argent ne fait pas le bonheur.",
+  "en": "Money does not buy happiness.",
+  "moundang": "Lak ye ka nyii kal 'nãh ya."
+ }
+]

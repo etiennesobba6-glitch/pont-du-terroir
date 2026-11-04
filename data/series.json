@@ -1,0 +1,302 @@
+[
+ {
+  "id": "01",
+  "emoji": "👋",
+  "titre": "Salutations et présentations",
+  "fichier": true
+ },
+ {
+  "id": "02",
+  "emoji": "🙏",
+  "titre": "Politesse et remerciements",
+  "fichier": true
+ },
+ {
+  "id": "03",
+  "emoji": "👨‍👩‍👧",
+  "titre": "Famille et relations",
+  "fichier": true
+ },
+ {
+  "id": "04",
+  "emoji": "👤",
+  "titre": "Décrire une personne",
+  "fichier": true
+ },
+ {
+  "id": "05",
+  "emoji": "🏠",
+  "titre": "La maison",
+  "fichier": true
+ },
+ {
+  "id": "06",
+  "emoji": "🍽",
+  "titre": "Cuisine et repas",
+  "fichier": true
+ },
+ {
+  "id": "07",
+  "emoji": "🥤",
+  "titre": "Boissons",
+  "fichier": true
+ },
+ {
+  "id": "08",
+  "emoji": "🛒",
+  "titre": "Marché et achats",
+  "fichier": true
+ },
+ {
+  "id": "09",
+  "emoji": "💰",
+  "titre": "Argent et paiement",
+  "fichier": true
+ },
+ {
+  "id": "10",
+  "emoji": "👕",
+  "titre": "Vêtements",
+  "fichier": true
+ },
+ {
+  "id": "11",
+  "emoji": "🎨",
+  "titre": "Couleurs et formes",
+  "fichier": false
+ },
+ {
+  "id": "12",
+  "emoji": "🔢",
+  "titre": "Nombres et calculs",
+  "fichier": false
+ },
+ {
+  "id": "13",
+  "emoji": "⏰",
+  "titre": "Heure et temps",
+  "fichier": false
+ },
+ {
+  "id": "14",
+  "emoji": "📅",
+  "titre": "Jours, mois et saisons",
+  "fichier": false
+ },
+ {
+  "id": "15",
+  "emoji": "🌦",
+  "titre": "La météo",
+  "fichier": false
+ },
+ {
+  "id": "16",
+  "emoji": "🏫",
+  "titre": "L'école",
+  "fichier": false
+ },
+ {
+  "id": "17",
+  "emoji": "📚",
+  "titre": "La salle de classe",
+  "fichier": false
+ },
+ {
+  "id": "18",
+  "emoji": "✍️",
+  "titre": "Lecture et écriture",
+  "fichier": false
+ },
+ {
+  "id": "19",
+  "emoji": "💼",
+  "titre": "Travail et métiers",
+  "fichier": false
+ },
+ {
+  "id": "20",
+  "emoji": "🖥",
+  "titre": "Bureau et administration",
+  "fichier": false
+ },
+ {
+  "id": "21",
+  "emoji": "🤒",
+  "titre": "Santé",
+  "fichier": false
+ },
+ {
+  "id": "22",
+  "emoji": "🏥",
+  "titre": "Hôpital",
+  "fichier": false
+ },
+ {
+  "id": "23",
+  "emoji": "💊",
+  "titre": "Médicaments",
+  "fichier": false
+ },
+ {
+  "id": "24",
+  "emoji": "🚶",
+  "titre": "Déplacements",
+  "fichier": false
+ },
+ {
+  "id": "25",
+  "emoji": "🚌",
+  "titre": "Transports",
+  "fichier": false
+ },
+ {
+  "id": "26",
+  "emoji": "🧭",
+  "titre": "Demander et indiquer son chemin",
+  "fichier": false
+ },
+ {
+  "id": "27",
+  "emoji": "🗺",
+  "titre": "Voyages",
+  "fichier": false
+ },
+ {
+  "id": "28",
+  "emoji": "🏨",
+  "titre": "Hôtel et hébergement",
+  "fichier": false
+ },
+ {
+  "id": "29",
+  "emoji": "🍽",
+  "titre": "Restaurant",
+  "fichier": false
+ },
+ {
+  "id": "30",
+  "emoji": "🚨",
+  "titre": "Situations d'urgence",
+  "fichier": false
+ },
+ {
+  "id": "31",
+  "emoji": "🌱",
+  "titre": "Agriculture",
+  "fichier": false
+ },
+ {
+  "id": "32",
+  "emoji": "🐄",
+  "titre": "Élevage",
+  "fichier": false
+ },
+ {
+  "id": "33",
+  "emoji": "🐘",
+  "titre": "Animaux",
+  "fichier": false
+ },
+ {
+  "id": "34",
+  "emoji": "🌳",
+  "titre": "Nature et environnement",
+  "fichier": false
+ },
+ {
+  "id": "35",
+  "emoji": "🍎",
+  "titre": "Fruits et légumes",
+  "fichier": false
+ },
+ {
+  "id": "36",
+  "emoji": "🥘",
+  "titre": "Nourriture",
+  "fichier": false
+ },
+ {
+  "id": "37",
+  "emoji": "💧",
+  "titre": "Eau et hygiène",
+  "fichier": false
+ },
+ {
+  "id": "38",
+  "emoji": "🏘",
+  "titre": "Vie au village et en ville",
+  "fichier": false
+ },
+ {
+  "id": "39",
+  "emoji": "🤝",
+  "titre": "Relations sociales",
+  "fichier": false
+ },
+ {
+  "id": "40",
+  "emoji": "📱",
+  "titre": "Téléphone et communication",
+  "fichier": false
+ },
+ {
+  "id": "41",
+  "emoji": "❤️",
+  "titre": "Émotions et sentiments",
+  "fichier": false
+ },
+ {
+  "id": "42",
+  "emoji": "🎉",
+  "titre": "Fêtes et cérémonies",
+  "fichier": false
+ },
+ {
+  "id": "43",
+  "emoji": "⚽",
+  "titre": "Sports et loisirs",
+  "fichier": false
+ },
+ {
+  "id": "44",
+  "emoji": "🎵",
+  "titre": "Musique et danse",
+  "fichier": false
+ },
+ {
+  "id": "45",
+  "emoji": "⛪",
+  "titre": "Vie spirituelle",
+  "fichier": false
+ },
+ {
+  "id": "46",
+  "emoji": "🤲",
+  "titre": "Valeurs et civisme",
+  "fichier": false
+ },
+ {
+  "id": "47",
+  "emoji": "🏛",
+  "titre": "Administration et services publics",
+  "fichier": false
+ },
+ {
+  "id": "48",
+  "emoji": "💬",
+  "titre": "Conversations courantes",
+  "fichier": false
+ },
+ {
+  "id": "49",
+  "emoji": "❓",
+  "titre": "Questions fréquentes",
+  "fichier": false
+ },
+ {
+  "id": "50",
+  "emoji": "📖",
+  "titre": "Proverbes et expressions de sagesse",
+  "fichier": false
+ }
+]

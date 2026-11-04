@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s06-01",
+  "fr": "J'ai faim.",
+  "en": "I am hungry.",
+  "moundang": "Koŋ i me ɓo."
+ },
+ {
+  "id": "s06-02",
+  "fr": "J'ai soif.",
+  "en": "I am thirsty.",
+  "moundang": "Koŋ bii i me ɓo."
+ },
+ {
+  "id": "s06-03",
+  "fr": "Le repas est prêt.",
+  "en": "The meal is ready.",
+  "moundang": "Farel joŋ ɓe."
+ },
+ {
+  "id": "s06-04",
+  "fr": "Venez manger.",
+  "en": "Come and eat.",
+  "moundang": "We ge re farelle."
+ },
+ {
+  "id": "s06-05",
+  "fr": "Asseyez-vous, s'il vous plaît.",
+  "en": "Please, have a seat.",
+  "moundang": "We kaa ge səŋ o, we 'yah ɓe."
+ },
+ {
+  "id": "s06-06",
+  "fr": "Bon appétit !",
+  "en": "Enjoy your meal!",
+  "moundang": "Farel ah mo 'nyãh zah ɓo."
+ },
+ {
+  "id": "s06-07",
+  "fr": "Le repas est délicieux.",
+  "en": "The meal is delicious.",
+  "moundang": "Farel ah pə'nyãhre."
+ },
+ {
+  "id": "s06-08",
+  "fr": "J'aime ce plat.",
+  "en": "I like this dish.",
+  "moundang": "Me 'yah farel mai ko."
+ },
+ {
+  "id": "s06-09",
+  "fr": "Je n'aime pas ce plat.",
+  "en": "I don't like this dish.",
+  "moundang": "Me 'yah farel mai ya."
+ },
+ {
+  "id": "s06-10",
+  "fr": "Donne-moi un peu de riz.",
+  "en": "Give me some rice.",
+  "moundang": "Mo nyii sorfãa me njee ɗao."
+ },
+ {
+  "id": "s06-11",
+  "fr": "Passe-moi le sel, s'il te plaît.",
+  "en": "Pass me the salt, please.",
+  "moundang": "Mo nyen ɓeekãh ge me sa, mo 'yah ɓe."
+ },
+ {
+  "id": "s06-12",
+  "fr": "Veux-tu encore à manger ?",
+  "en": "Do you want some more food?",
+  "moundang": "Mo 'yah farel no kpə ne?"
+ },
+ {
+  "id": "s06-13",
+  "fr": "Oui, un peu, merci.",
+  "en": "Yes, a little, thank you.",
+  "moundang": "Awo, njee to, soko."
+ },
+ {
+  "id": "s06-14",
+  "fr": "Non, merci, je suis rassasié.",
+  "en": "No, thank you. I am full.",
+  "moundang": "Kay, soko, me sahɓ ɓe."
+ },
+ {
+  "id": "s06-15",
+  "fr": "Bois un peu d'eau.",
+  "en": "Drink some water.",
+  "moundang": "Mo zwə bii njee ɗao."
+ },
+ {
+  "id": "s06-16",
+  "fr": "Le repas est chaud.",
+  "en": "The meal is hot.",
+  "moundang": "Farel ah nə wii."
+ },
+ {
+  "id": "s06-17",
+  "fr": "Le repas est froid.",
+  "en": "The meal is cold.",
+  "moundang": "Farel ah pewokki."
+ },
+ {
+  "id": "s06-18",
+  "fr": "Qui a préparé ce repas ?",
+  "en": "Who prepared this meal?",
+  "moundang": "Azu ye joŋ farel mai ne?"
+ },
+ {
+  "id": "s06-19",
+  "fr": "Merci pour ce bon repas.",
+  "en": "Thank you for this good meal.",
+  "moundang": "Soro mor farel ma 'nyãh maino."
+ },
+ {
+  "id": "s06-20",
+  "fr": "À table !",
+  "en": "Dinner is ready! / Come to the table!",
+  "moundang": "We ge zah farelle."
+ }
+]

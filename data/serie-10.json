@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s10-01",
+  "fr": "Je porte une chemise.",
+  "en": "I am wearing a shirt.",
+  "moundang": "Me ɓoo mbəro buton ɓo."
+ },
+ {
+  "id": "s10-02",
+  "fr": "Elle porte une robe.",
+  "en": "She is wearing a dress.",
+  "moundang": "Ɓoo ko roɓ ɓo."
+ },
+ {
+  "id": "s10-03",
+  "fr": "Il porte un pantalon.",
+  "en": "He is wearing trousers.",
+  "moundang": "Mãako sələə ɓo."
+ },
+ {
+  "id": "s10-04",
+  "fr": "Mets tes chaussures.",
+  "en": "Put on your shoes.",
+  "moundang": "Mo mãa səɓalle."
+ },
+ {
+  "id": "s10-05",
+  "fr": "Enlève ton manteau.",
+  "en": "Take off your coat.",
+  "moundang": "Mo wəə mbəro cel ɓo ge lalle."
+ },
+ {
+  "id": "s10-06",
+  "fr": "Ce vêtement est propre.",
+  "en": "This clothing is clean.",
+  "moundang": "Zyim mai ka ne 'nahm ya."
+ },
+ {
+  "id": "s10-07",
+  "fr": "Ce vêtement est sale.",
+  "en": "This clothing is dirty.",
+  "moundang": "Zyim mai ii ɓo."
+ },
+ {
+  "id": "s10-08",
+  "fr": "J'aime cette couleur.",
+  "en": "I like this color.",
+  "moundang": "Me 'yah bii zyim maino."
+ },
+ {
+  "id": "s10-09",
+  "fr": "Cette chemise me va bien.",
+  "en": "This shirt fits me well.",
+  "moundang": "Yerri mai a ga ne me pəsãhe."
+ },
+ {
+  "id": "s10-10",
+  "fr": "Ces chaussures sont confortables.",
+  "en": "These shoes are comfortable.",
+  "moundang": "Səɓal mai a mãa pə'nyãhre."
+ },
+ {
+  "id": "s10-11",
+  "fr": "Mon chapeau est neuf.",
+  "en": "My hat is new.",
+  "moundang": "Njok ɓe a pəfuu."
+ },
+ {
+  "id": "s10-12",
+  "fr": "Où est ma veste ?",
+  "en": "Where is my jacket?",
+  "moundang": "Vestə ɓe a kẽne?"
+ },
+ {
+  "id": "s10-13",
+  "fr": "Il fait froid, couvre-toi.",
+  "en": "It is cold, cover yourself.",
+  "moundang": "Cok pə wokki, mo rii fan wo suu."
+ },
+ {
+  "id": "s10-14",
+  "fr": "Il fait chaud aujourd'hui.",
+  "en": "It is hot today.",
+  "moundang": "Cok ləə ɓo tə'nah ko."
+ },
+ {
+  "id": "s10-15",
+  "fr": "Je vais laver mes vêtements.",
+  "en": "I am going to wash my clothes.",
+  "moundang": "Me ga vãh zyim ɓe."
+ },
+ {
+  "id": "s10-16",
+  "fr": "Les vêtements sèchent au soleil.",
+  "en": "The clothes are drying in the sun.",
+  "moundang": "Zyim a yak ne come."
+ },
+ {
+  "id": "s10-17",
+  "fr": "Cette taille me convient.",
+  "en": "This size fits me.",
+  "moundang": "Lamba mai a ga ne me."
+ },
+ {
+  "id": "s10-18",
+  "fr": "Je voudrais essayer ce pantalon.",
+  "en": "I would like to try on these trousers.",
+  "moundang": "Me 'yah me lii sələə maino."
+ },
+ {
+  "id": "s10-19",
+  "fr": "Cette robe est très belle.",
+  "en": "This dress is very beautiful.",
+  "moundang": "Roɓ mai a pəsãh pəlii."
+ },
+ {
+  "id": "s10-20",
+  "fr": "Habille-toi rapidement.",
+  "en": "Get dressed quickly.",
+  "moundang": "Mo ɓoo zyim gwaari."
+ }
+]

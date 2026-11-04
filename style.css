@@ -10,9 +10,11 @@
 
 * { box-sizing: border-box; }
 
+html { font-size: 112.5%; }
+
 body {
   margin: 0;
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-family: "Noto Sans", "Charis SIL", "Gentium Plus", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   background: var(--fond);
   color: var(--texte);
   line-height: 1.5;
@@ -26,7 +28,7 @@ body {
   border-bottom: 4px solid var(--jaune);
 }
 .entete h1 { margin: 0; font-size: 1.6rem; }
-.sous-titre { margin: 4px 0 0; opacity: .9; font-size: .95rem; }
+.sous-titre { margin: 4px 0 0; opacity: .9; font-size: .9rem; }
 
 main { max-width: 640px; margin: 0 auto; padding: 16px; }
 
@@ -41,7 +43,7 @@ h2 { font-size: 1.1rem; margin: 24px 0 10px; }
   border-radius: 14px;
   padding: 12px;
 }
-.champ { flex: 1; display: flex; flex-direction: column; gap: 4px; }
+.champ { flex: 1; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
 .champ label { font-size: .8rem; color: #55675c; }
 select {
   width: 100%;
@@ -58,6 +60,7 @@ select {
   font-size: 1.3rem;
   width: 44px;
   height: 44px;
+  flex-shrink: 0;
   border-radius: 50%;
   cursor: pointer;
 }
@@ -71,16 +74,13 @@ select {
   border-radius: 12px;
 }
 
-.categories {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 10px;
-}
-.carte {
+/* Liste des séries */
+.series { display: flex; flex-direction: column; gap: 8px; }
+.serie {
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 14px;
+  padding: 12px 14px;
   background: var(--carte);
   border: 1px solid var(--bord);
   border-radius: 14px;
@@ -88,20 +88,79 @@ select {
   color: var(--texte);
   font-weight: 600;
 }
-.carte:active { background: var(--vert-clair); }
-.icone { font-size: 1.5rem; }
+a.serie:active { background: var(--vert-clair); }
+.serie .num {
+  min-width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--vert-clair);
+  color: var(--vert);
+  font-size: .8rem;
+}
+.serie .icone { font-size: 1.4rem; }
+.serie .titre { flex: 1; }
+.serie.bientot { opacity: .55; font-weight: 500; }
+.badge {
+  font-size: .7rem;
+  background: #eef1ef;
+  color: #55675c;
+  padding: 2px 8px;
+  border-radius: 999px;
+}
 
+/* Phrase du jour */
 .encart {
   background: var(--vert-clair);
   border-left: 5px solid var(--vert);
   border-radius: 12px;
-  padding: 14px 16px;
+  padding: 6px 12px;
 }
-.phrase { margin: 0; font-size: 1.1rem; font-weight: 600; }
-.traduction { margin: 6px 0 0; color: #3d5a49; font-style: italic; }
 
+/* Cartes de phrases */
+.retour {
+  display: inline-block;
+  margin-top: 16px;
+  color: var(--vert);
+  font-weight: 600;
+  text-decoration: none;
+}
+.phrase-carte {
+  background: var(--carte);
+  border: 1px solid var(--bord);
+  border-radius: 14px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+}
+.encart .phrase-carte { background: transparent; border: none; padding: 6px 2px; margin: 0; }
+.etiquette { margin: 0; font-size: .75rem; color: #6b7d72; }
+.ligne { display: flex; align-items: center; gap: 8px; }
+.ligne p { flex: 1; margin: 4px 0; }
+.texte-source { font-size: 1.2rem; font-weight: 600; }
+.texte-cible { color: #1b5f3b; font-size: 1.3rem; }
+.taille { display: flex; justify-content: flex-end; gap: 8px; margin-top: 10px; }
+.taille button {
+  border: 1px solid var(--bord);
+  background: var(--carte);
+  color: var(--vert);
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 6px 14px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.vide { color: #8a9a90; font-style: italic; }
+.son {
+  border: none;
+  background: var(--vert-clair);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
+.info { color: #55675c; }
 .pied { text-align: center; padding: 20px 16px 32px; color: #6b7d72; font-size: .85rem; }
-
-@media (min-width: 560px) {
-  .categories { grid-template-columns: repeat(4, 1fr); }
-}

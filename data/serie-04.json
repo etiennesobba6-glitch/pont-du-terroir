@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s04-01",
+  "fr": "Il est grand.",
+  "en": "He is tall.",
+  "moundang": "Ako pə lii."
+ },
+ {
+  "id": "s04-02",
+  "fr": "Elle est grande.",
+  "en": "She is tall.",
+  "moundang": "Ako pə lii."
+ },
+ {
+  "id": "s04-03",
+  "fr": "Il est petit.",
+  "en": "He is short.",
+  "moundang": "Ako pə laŋni."
+ },
+ {
+  "id": "s04-04",
+  "fr": "Elle est belle.",
+  "en": "She is beautiful.",
+  "moundang": "Ako ne coknən pəsãhe."
+ },
+ {
+  "id": "s04-05",
+  "fr": "Il est beau.",
+  "en": "He is handsome.",
+  "moundang": "Ako nə coknən pəsãhe."
+ },
+ {
+  "id": "s04-06",
+  "fr": "Elle est gentille.",
+  "en": "She is kind.",
+  "moundang": "Ako joŋ fan ne zahzyil faĩ."
+ },
+ {
+  "id": "s04-07",
+  "fr": "Il est gentil.",
+  "en": "He is kind.",
+  "moundang": "Ako joŋ fan ne zahzyil faĩ."
+ },
+ {
+  "id": "s04-08",
+  "fr": "Il est fort.",
+  "en": "He is strong.",
+  "moundang": "Ako pəswahe."
+ },
+ {
+  "id": "s04-09",
+  "fr": "Elle est intelligente.",
+  "en": "She is intelligent.",
+  "moundang": "Ako ne fan tanne."
+ },
+ {
+  "id": "s04-10",
+  "fr": "Il est courageux.",
+  "en": "He is brave.",
+  "moundang": "Ako ne zahzyil pəswahe."
+ },
+ {
+  "id": "s04-11",
+  "fr": "Elle est polie.",
+  "en": "She is polite.",
+  "moundang": "Ako ne tə'yak keesuu."
+ },
+ {
+  "id": "s04-12",
+  "fr": "Il est travailleur.",
+  "en": "He is hardworking.",
+  "moundang": "Ako ne yeɓ pə jolle."
+ },
+ {
+  "id": "s04-13",
+  "fr": "Elle est souriante.",
+  "en": "She is cheerful.",
+  "moundang": "A 'yahko ree syak pəlli."
+ },
+ {
+  "id": "s04-14",
+  "fr": "Il est calme.",
+  "en": "He is calm.",
+  "moundang": "Ako ye dəɓ tə 'waa."
+ },
+ {
+  "id": "s04-15",
+  "fr": "Elle est sérieuse.",
+  "en": "She is serious.",
+  "moundang": "Ako ne ɓəəfoo sãhe."
+ },
+ {
+  "id": "s04-16",
+  "fr": "Il parle bien.",
+  "en": "He speaks well.",
+  "moundang": "A faako ɓəə pesãhe."
+ },
+ {
+  "id": "s04-17",
+  "fr": "Elle chante bien.",
+  "en": "She sings well.",
+  "moundang": "A ɗəəko ləŋ pə'nyãhre."
+ },
+ {
+  "id": "s04-18",
+  "fr": "Il court vite.",
+  "en": "He runs fast.",
+  "moundang": "A ɗuuko pəlii."
+ },
+ {
+  "id": "s04-19",
+  "fr": "Elle est heureuse.",
+  "en": "She is happy.",
+  "moundang": "A laako suu ah pə'nyãhre."
+ },
+ {
+  "id": "s04-20",
+  "fr": "C'est une bonne personne.",
+  "en": "He/She is a good person.",
+  "moundang": "Ako ye dəɓ sãhe."
+ }
+]

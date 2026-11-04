@@ -4,63 +4,40 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#1b7f4b">
-  <title>Phrases courantes</title>
+  <title>Pont du terroir</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="entete">
-    <h1>Phrases courantes</h1>
-    <p class="sous-titre">Français · English · Moundang</p>
+    <h1>Pont du terroir</h1>
+    <p class="sous-titre">Phrases courantes · Français · English · Moundang</p>
   </header>
 
   <main>
     <section class="langues" aria-label="Choix des langues">
       <div class="champ">
         <label for="langue-source">Je parle</label>
-        <select id="langue-source">
-          <option value="fr">Français</option>
-          <option value="en">English</option>
-          <option value="moundang">Moundang</option>
-        </select>
+        <select id="langue-source"></select>
       </div>
 
       <button id="inverser" class="inverser" type="button" aria-label="Inverser les langues">⇄</button>
 
       <div class="champ">
         <label for="langue-cible">Je veux dire en</label>
-        <select id="langue-cible">
-          <option value="fr">Français</option>
-          <option value="en">English</option>
-          <option value="moundang" selected>Moundang</option>
-        </select>
+        <select id="langue-cible"></select>
       </div>
     </section>
+
+    <div class="taille" aria-label="Taille du texte">
+      <button id="plus-petit" type="button" aria-label="Réduire le texte">A−</button>
+      <button id="plus-grand" type="button" aria-label="Agrandir le texte">A+</button>
+    </div>
 
     <section class="recherche">
       <input id="recherche" type="search" placeholder="Rechercher une phrase…" aria-label="Rechercher une phrase">
     </section>
 
-    <section aria-label="Catégories">
-      <h2>Catégories</h2>
-      <div class="categories">
-        <a class="carte" href="#salutations"><span class="icone">👋</span>Salutations</a>
-        <a class="carte" href="#politesse"><span class="icone">🙏</span>Politesse</a>
-        <a class="carte" href="#marche"><span class="icone">🛒</span>Marché</a>
-        <a class="carte" href="#transport"><span class="icone">🚌</span>Transport</a>
-        <a class="carte" href="#sante"><span class="icone">🏥</span>Santé</a>
-        <a class="carte" href="#famille"><span class="icone">👨‍👩‍👧</span>Famille</a>
-        <a class="carte" href="#nombres"><span class="icone">🔢</span>Nombres</a>
-        <a class="carte" href="#urgence"><span class="icone">🚨</span>Urgence</a>
-      </div>
-    </section>
-
-    <section class="phrase-du-jour">
-      <h2>Phrase du jour</h2>
-      <div class="encart">
-        <p class="phrase" id="pdj-fr">Bonjour, comment allez-vous ?</p>
-        <p class="traduction" id="pdj-trad">À ajouter en moundang</p>
-      </div>
-    </section>
+    <section id="contenu" aria-live="polite"></section>
   </main>
 
   <footer class="pied">
