@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s13-01",
+  "fr": "Quelle heure est-il ?",
+  "en": "What time is it?",
+  "moundang": ""
+ },
+ {
+  "id": "s13-02",
+  "fr": "Il est une heure.",
+  "en": "It is one o'clock.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-03",
+  "fr": "Il est deux heures.",
+  "en": "It is two o'clock.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-04",
+  "fr": "Il est midi.",
+  "en": "It is noon.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-05",
+  "fr": "Il est minuit.",
+  "en": "It is midnight.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-06",
+  "fr": "Il est six heures et demie.",
+  "en": "It is half past six.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-07",
+  "fr": "Il est huit heures moins le quart.",
+  "en": "It is a quarter to eight.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-08",
+  "fr": "Il est neuf heures et quart.",
+  "en": "It is a quarter past nine.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-09",
+  "fr": "Je suis en avance.",
+  "en": "I am early.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-10",
+  "fr": "Je suis en retard.",
+  "en": "I am late.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-11",
+  "fr": "Dépêche-toi !",
+  "en": "Hurry up!",
+  "moundang": ""
+ },
+ {
+  "id": "s13-12",
+  "fr": "Attends un instant.",
+  "en": "Wait a moment.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-13",
+  "fr": "Prends ton temps.",
+  "en": "Take your time.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-14",
+  "fr": "Nous partirons dans une heure.",
+  "en": "We will leave in one hour.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-15",
+  "fr": "Le cours commence à huit heures.",
+  "en": "The class starts at eight o'clock.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-16",
+  "fr": "Le travail est terminé.",
+  "en": "The work is finished.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-17",
+  "fr": "C'est le bon moment.",
+  "en": "It is the right time.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-18",
+  "fr": "Il est déjà tard.",
+  "en": "It is already late.",
+  "moundang": ""
+ },
+ {
+  "id": "s13-19",
+  "fr": "À quelle heure viendras-tu ?",
+  "en": "What time will you come?",
+  "moundang": ""
+ },
+ {
+  "id": "s13-20",
+  "fr": "Je viendrai à dix heures.",
+  "en": "I will come at ten o'clock.",
+  "moundang": ""
+ }
+]

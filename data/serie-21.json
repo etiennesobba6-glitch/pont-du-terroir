@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s21-01",
+  "fr": "Comment te sens-tu ?",
+  "en": "How do you feel?",
+  "moundang": ""
+ },
+ {
+  "id": "s21-02",
+  "fr": "Je me sens bien.",
+  "en": "I feel well.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-03",
+  "fr": "Je suis malade.",
+  "en": "I am sick.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-04",
+  "fr": "J'ai de la fièvre.",
+  "en": "I have a fever.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-05",
+  "fr": "J'ai mal à la tête.",
+  "en": "I have a headache.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-06",
+  "fr": "J'ai mal au ventre.",
+  "en": "I have a stomachache.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-07",
+  "fr": "J'ai mal au dos.",
+  "en": "I have back pain.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-08",
+  "fr": "Je tousse beaucoup.",
+  "en": "I am coughing a lot.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-09",
+  "fr": "J'ai un rhume.",
+  "en": "I have a cold.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-10",
+  "fr": "Je suis fatigué.",
+  "en": "I am tired.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-11",
+  "fr": "Je dors mal.",
+  "en": "I sleep badly.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-12",
+  "fr": "J'ai besoin de repos.",
+  "en": "I need some rest.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-13",
+  "fr": "Bois beaucoup d'eau.",
+  "en": "Drink plenty of water.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-14",
+  "fr": "Mange des aliments sains.",
+  "en": "Eat healthy food.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-15",
+  "fr": "Fais un peu d'exercice.",
+  "en": "Get some exercise.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-16",
+  "fr": "Prends soin de toi.",
+  "en": "Take care of yourself.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-17",
+  "fr": "Je vais bientôt mieux.",
+  "en": "I am getting better soon.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-18",
+  "fr": "Je suis complètement guéri.",
+  "en": "I am completely healed.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-19",
+  "fr": "Merci pour tes conseils.",
+  "en": "Thank you for your advice.",
+  "moundang": ""
+ },
+ {
+  "id": "s21-20",
+  "fr": "Que Dieu te guérisse.",
+  "en": "May God heal you.",
+  "moundang": ""
+ }
+]

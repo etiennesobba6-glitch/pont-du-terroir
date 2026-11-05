@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s12-01",
+  "fr": "Combien y en a-t-il ?",
+  "en": "How many are there?",
+  "moundang": ""
+ },
+ {
+  "id": "s12-02",
+  "fr": "Il y en a un.",
+  "en": "There is one.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-03",
+  "fr": "Il y en a deux.",
+  "en": "There are two.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-04",
+  "fr": "J'ai trois livres.",
+  "en": "I have three books.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-05",
+  "fr": "Elle a quatre enfants.",
+  "en": "She has four children.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-06",
+  "fr": "Nous sommes cinq.",
+  "en": "There are five of us.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-07",
+  "fr": "Compte jusqu'à dix.",
+  "en": "Count to ten.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-08",
+  "fr": "Ajoute deux à trois.",
+  "en": "Add two to three.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-09",
+  "fr": "Deux plus trois font cinq.",
+  "en": "Two plus three equals five.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-10",
+  "fr": "Dix moins quatre font six.",
+  "en": "Ten minus four equals six.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-11",
+  "fr": "Trois fois quatre font douze.",
+  "en": "Three times four equals twelve.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-12",
+  "fr": "Douze divisé par trois font quatre.",
+  "en": "Twelve divided by three equals four.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-13",
+  "fr": "Quel est le résultat ?",
+  "en": "What is the answer?",
+  "moundang": ""
+ },
+ {
+  "id": "s12-14",
+  "fr": "La réponse est correcte.",
+  "en": "The answer is correct.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-15",
+  "fr": "Tu t'es trompé.",
+  "en": "You made a mistake.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-16",
+  "fr": "Recommence le calcul.",
+  "en": "Do the calculation again.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-17",
+  "fr": "Ce nombre est grand.",
+  "en": "This number is large.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-18",
+  "fr": "Ce nombre est petit.",
+  "en": "This number is small.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-19",
+  "fr": "Écris le nombre en lettres.",
+  "en": "Write the number in words.",
+  "moundang": ""
+ },
+ {
+  "id": "s12-20",
+  "fr": "Les mathématiques sont intéressantes.",
+  "en": "Mathematics is interesting.",
+  "moundang": ""
+ }
+]

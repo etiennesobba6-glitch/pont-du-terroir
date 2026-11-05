@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s30-01",
+  "fr": "Au secours !",
+  "en": "Help!",
+  "moundang": ""
+ },
+ {
+  "id": "s30-02",
+  "fr": "Aidez-moi, s'il vous plaît !",
+  "en": "Please help me!",
+  "moundang": ""
+ },
+ {
+  "id": "s30-03",
+  "fr": "Appelez la police.",
+  "en": "Call the police.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-04",
+  "fr": "Appelez les secours.",
+  "en": "Call the emergency services.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-05",
+  "fr": "Appelez une ambulance.",
+  "en": "Call an ambulance.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-06",
+  "fr": "Il y a un incendie !",
+  "en": "There is a fire!",
+  "moundang": ""
+ },
+ {
+  "id": "s30-07",
+  "fr": "Éloignez-vous du danger.",
+  "en": "Move away from the danger.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-08",
+  "fr": "Restez calme.",
+  "en": "Stay calm.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-09",
+  "fr": "Ne paniquez pas.",
+  "en": "Do not panic.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-10",
+  "fr": "Quelqu'un est blessé.",
+  "en": "Someone is injured.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-11",
+  "fr": "J'ai perdu mon téléphone.",
+  "en": "I have lost my phone.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-12",
+  "fr": "J'ai perdu mes clés.",
+  "en": "I have lost my keys.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-13",
+  "fr": "Mon sac a été volé.",
+  "en": "My bag has been stolen.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-14",
+  "fr": "Je ne trouve pas mon enfant.",
+  "en": "I can't find my child.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-15",
+  "fr": "Il faut agir rapidement.",
+  "en": "We must act quickly.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-16",
+  "fr": "L'aide est en route.",
+  "en": "Help is on the way.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-17",
+  "fr": "Merci pour votre aide.",
+  "en": "Thank you for your help.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-18",
+  "fr": "Tout est sous contrôle.",
+  "en": "Everything is under control.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-19",
+  "fr": "Le danger est passé.",
+  "en": "The danger is over.",
+  "moundang": ""
+ },
+ {
+  "id": "s30-20",
+  "fr": "Rentrez chez vous en sécurité.",
+  "en": "Go home safely.",
+  "moundang": ""
+ }
+]

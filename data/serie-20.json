@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s20-01",
+  "fr": "Bonjour, puis-je vous aider ?",
+  "en": "Hello, may I help you?",
+  "moundang": ""
+ },
+ {
+  "id": "s20-02",
+  "fr": "J'ai un rendez-vous.",
+  "en": "I have an appointment.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-03",
+  "fr": "Veuillez patienter un instant.",
+  "en": "Please wait a moment.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-04",
+  "fr": "Entrez, s'il vous plaît.",
+  "en": "Please come in.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-05",
+  "fr": "Asseyez-vous, je vous prie.",
+  "en": "Please have a seat.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-06",
+  "fr": "Quel est votre nom ?",
+  "en": "What is your name?",
+  "moundang": ""
+ },
+ {
+  "id": "s20-07",
+  "fr": "Remplissez ce formulaire.",
+  "en": "Fill out this form.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-08",
+  "fr": "Signez ici, s'il vous plaît.",
+  "en": "Sign here, please.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-09",
+  "fr": "Montrez-moi votre pièce d'identité.",
+  "en": "Show me your identity card.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-10",
+  "fr": "Votre dossier est complet.",
+  "en": "Your file is complete.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-11",
+  "fr": "Il manque un document.",
+  "en": "One document is missing.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-12",
+  "fr": "Revenez demain.",
+  "en": "Come back tomorrow.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-13",
+  "fr": "Votre demande est acceptée.",
+  "en": "Your request has been approved.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-14",
+  "fr": "Votre demande est en cours de traitement.",
+  "en": "Your request is being processed.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-15",
+  "fr": "Merci de votre patience.",
+  "en": "Thank you for your patience.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-16",
+  "fr": "Le bureau est fermé.",
+  "en": "The office is closed.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-17",
+  "fr": "Le bureau ouvre à huit heures.",
+  "en": "The office opens at eight o'clock.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-18",
+  "fr": "Voici votre document.",
+  "en": "Here is your document.",
+  "moundang": ""
+ },
+ {
+  "id": "s20-19",
+  "fr": "Bonne journée !",
+  "en": "Have a nice day!",
+  "moundang": ""
+ },
+ {
+  "id": "s20-20",
+  "fr": "Au plaisir de vous revoir.",
+  "en": "We look forward to seeing you again.",
+  "moundang": ""
+ }
+]

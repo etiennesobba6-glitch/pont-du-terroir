@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s25-01",
+  "fr": "Où est la gare routière ?",
+  "en": "Where is the bus station?",
+  "moundang": ""
+ },
+ {
+  "id": "s25-02",
+  "fr": "À quelle heure part le bus ?",
+  "en": "What time does the bus leave?",
+  "moundang": ""
+ },
+ {
+  "id": "s25-03",
+  "fr": "Le bus est arrivé.",
+  "en": "The bus has arrived.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-04",
+  "fr": "Le bus est en retard.",
+  "en": "The bus is late.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-05",
+  "fr": "J'attends le taxi.",
+  "en": "I am waiting for the taxi.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-06",
+  "fr": "Je vais en moto.",
+  "en": "I am going by motorcycle.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-07",
+  "fr": "Nous voyageons en voiture.",
+  "en": "We are travelling by car.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-08",
+  "fr": "Combien coûte le transport ?",
+  "en": "How much is the fare?",
+  "moundang": ""
+ },
+ {
+  "id": "s25-09",
+  "fr": "Voici votre ticket.",
+  "en": "Here is your ticket.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-10",
+  "fr": "Gardez bien votre ticket.",
+  "en": "Keep your ticket safe.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-11",
+  "fr": "Où allez-vous ?",
+  "en": "Where are you going?",
+  "moundang": ""
+ },
+ {
+  "id": "s25-12",
+  "fr": "Je vais à Maroua.",
+  "en": "I am going to Maroua.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-13",
+  "fr": "Descendez ici, s'il vous plaît.",
+  "en": "Please let me get off here.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-14",
+  "fr": "Ce siège est libre.",
+  "en": "This seat is free.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-15",
+  "fr": "Attachez votre ceinture.",
+  "en": "Fasten your seat belt.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-16",
+  "fr": "Le voyage dure deux heures.",
+  "en": "The trip takes two hours.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-17",
+  "fr": "Le chauffeur conduit prudemment.",
+  "en": "The driver is driving carefully.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-18",
+  "fr": "Nous sommes arrivés à destination.",
+  "en": "We have arrived at our destination.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-19",
+  "fr": "Merci pour le trajet.",
+  "en": "Thank you for the ride.",
+  "moundang": ""
+ },
+ {
+  "id": "s25-20",
+  "fr": "À la prochaine !",
+  "en": "See you next time!",
+  "moundang": ""
+ }
+]

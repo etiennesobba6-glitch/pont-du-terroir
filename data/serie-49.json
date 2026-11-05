@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s49-01",
+  "fr": "Comment t'appelles-tu ?",
+  "en": "What is your name?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-02",
+  "fr": "Quel âge as-tu ?",
+  "en": "How old are you?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-03",
+  "fr": "Où habites-tu ?",
+  "en": "Where do you live?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-04",
+  "fr": "D'où viens-tu ?",
+  "en": "Where are you from?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-05",
+  "fr": "Quelle est ta profession ?",
+  "en": "What is your profession?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-06",
+  "fr": "Quelle heure est-il ?",
+  "en": "What time is it?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-07",
+  "fr": "Quel jour sommes-nous ?",
+  "en": "What day is it today?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-08",
+  "fr": "Quelle est la date d'aujourd'hui ?",
+  "en": "What is today's date?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-09",
+  "fr": "Combien cela coûte-t-il ?",
+  "en": "How much does it cost?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-10",
+  "fr": "Puis-je vous aider ?",
+  "en": "May I help you?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-11",
+  "fr": "Où allez-vous ?",
+  "en": "Where are you going?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-12",
+  "fr": "Que cherchez-vous ?",
+  "en": "What are you looking for?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-13",
+  "fr": "Pouvez-vous répéter ?",
+  "en": "Can you repeat, please?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-14",
+  "fr": "Que signifie ce mot ?",
+  "en": "What does this word mean?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-15",
+  "fr": "Comment dit-on cela en anglais ?",
+  "en": "How do you say that in English?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-16",
+  "fr": "Comment dit-on cela en français ?",
+  "en": "How do you say that in French?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-17",
+  "fr": "Pouvez-vous parler plus lentement ?",
+  "en": "Can you speak more slowly?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-18",
+  "fr": "Avez-vous compris ?",
+  "en": "Have you understood?",
+  "moundang": ""
+ },
+ {
+  "id": "s49-19",
+  "fr": "Oui, j'ai compris.",
+  "en": "Yes, I have understood.",
+  "moundang": ""
+ },
+ {
+  "id": "s49-20",
+  "fr": "Non, je n'ai pas compris.",
+  "en": "No, I have not understood.",
+  "moundang": ""
+ }
+]

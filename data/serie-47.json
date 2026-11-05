@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s47-01",
+  "fr": "Où se trouve la mairie ?",
+  "en": "Where is the town hall?",
+  "moundang": ""
+ },
+ {
+  "id": "s47-02",
+  "fr": "Je veux faire une demande.",
+  "en": "I want to submit an application.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-03",
+  "fr": "J'ai besoin d'un acte de naissance.",
+  "en": "I need a birth certificate.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-04",
+  "fr": "Où est le bureau de poste ?",
+  "en": "Where is the post office?",
+  "moundang": ""
+ },
+ {
+  "id": "s47-05",
+  "fr": "Je voudrais envoyer une lettre.",
+  "en": "I would like to send a letter.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-06",
+  "fr": "Où est le commissariat ?",
+  "en": "Where is the police station?",
+  "moundang": ""
+ },
+ {
+  "id": "s47-07",
+  "fr": "Je dois renouveler ma carte d'identité.",
+  "en": "I need to renew my identity card.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-08",
+  "fr": "Le dossier est complet.",
+  "en": "The file is complete.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-09",
+  "fr": "Il manque une photocopie.",
+  "en": "A photocopy is missing.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-10",
+  "fr": "Veuillez signer ici.",
+  "en": "Please sign here.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-11",
+  "fr": "Votre demande est enregistrée.",
+  "en": "Your application has been registered.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-12",
+  "fr": "Revenez la semaine prochaine.",
+  "en": "Come back next week.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-13",
+  "fr": "Le service est ouvert.",
+  "en": "The office is open.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-14",
+  "fr": "Le service est fermé.",
+  "en": "The office is closed.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-15",
+  "fr": "Merci de votre compréhension.",
+  "en": "Thank you for your understanding.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-16",
+  "fr": "Votre document est prêt.",
+  "en": "Your document is ready.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-17",
+  "fr": "Veuillez conserver ce reçu.",
+  "en": "Please keep this receipt.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-18",
+  "fr": "Bonne journée.",
+  "en": "Have a nice day.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-19",
+  "fr": "Merci pour votre patience.",
+  "en": "Thank you for your patience.",
+  "moundang": ""
+ },
+ {
+  "id": "s47-20",
+  "fr": "Au revoir et à bientôt.",
+  "en": "Goodbye and see you soon.",
+  "moundang": ""
+ }
+]

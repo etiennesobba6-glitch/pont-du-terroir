@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s40-01",
+  "fr": "Allô !",
+  "en": "Hello!",
+  "moundang": ""
+ },
+ {
+  "id": "s40-02",
+  "fr": "Qui est à l'appareil ?",
+  "en": "Who is calling?",
+  "moundang": ""
+ },
+ {
+  "id": "s40-03",
+  "fr": "C'est moi.",
+  "en": "It's me.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-04",
+  "fr": "Comment vas-tu ?",
+  "en": "How are you?",
+  "moundang": ""
+ },
+ {
+  "id": "s40-05",
+  "fr": "Je t'appelle plus tard.",
+  "en": "I will call you later.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-06",
+  "fr": "Peux-tu m'entendre ?",
+  "en": "Can you hear me?",
+  "moundang": ""
+ },
+ {
+  "id": "s40-07",
+  "fr": "La communication est mauvaise.",
+  "en": "The connection is poor.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-08",
+  "fr": "Je n'ai plus de crédit.",
+  "en": "I have no more airtime.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-09",
+  "fr": "Envoie-moi un message.",
+  "en": "Send me a message.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-10",
+  "fr": "J'ai reçu ton message.",
+  "en": "I received your message.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-11",
+  "fr": "Merci pour ton appel.",
+  "en": "Thank you for your call.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-12",
+  "fr": "Mon téléphone est déchargé.",
+  "en": "My phone battery is dead.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-13",
+  "fr": "Je recharge mon téléphone.",
+  "en": "I am charging my phone.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-14",
+  "fr": "Quel est ton numéro ?",
+  "en": "What is your phone number?",
+  "moundang": ""
+ },
+ {
+  "id": "s40-15",
+  "fr": "Voici mon numéro.",
+  "en": "Here is my phone number.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-16",
+  "fr": "Je t'enverrai les informations.",
+  "en": "I will send you the information.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-17",
+  "fr": "Nous pouvons parler maintenant.",
+  "en": "We can talk now.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-18",
+  "fr": "Bonne journée !",
+  "en": "Have a nice day!",
+  "moundang": ""
+ },
+ {
+  "id": "s40-19",
+  "fr": "À bientôt au téléphone.",
+  "en": "Talk to you soon.",
+  "moundang": ""
+ },
+ {
+  "id": "s40-20",
+  "fr": "Au revoir !",
+  "en": "Goodbye!",
+  "moundang": ""
+ }
+]

@@ -85,12 +85,14 @@ async function afficherAccueil(v) {
     c.appendChild(el("span", "icone", s.emoji));
     c.appendChild(el("span", "titre", s.titre));
     if (!s.fichier) c.appendChild(el("span", "badge", "bientôt"));
+    else if (s.moundang === false) c.appendChild(el("span", "badge", "moundang bientôt"));
     liste.appendChild(c);
   });
   contenu.appendChild(liste);
 
   // Phrase du jour
-  const dispo = SERIES.filter((s) => s.fichier);
+  const completes = SERIES.filter((s) => s.fichier && s.moundang !== false);
+  const dispo = completes.length ? completes : SERIES.filter((s) => s.fichier);
   if (!dispo.length) return;
   try {
     const jour = Math.floor(Date.now() / 86400000);

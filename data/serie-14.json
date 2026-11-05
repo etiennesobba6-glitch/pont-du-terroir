@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s14-01",
+  "fr": "Aujourd'hui, c'est lundi.",
+  "en": "Today is Monday.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-02",
+  "fr": "Demain, ce sera mardi.",
+  "en": "Tomorrow will be Tuesday.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-03",
+  "fr": "Hier, c'était dimanche.",
+  "en": "Yesterday was Sunday.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-04",
+  "fr": "Nous sommes en janvier.",
+  "en": "We are in January.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-05",
+  "fr": "Mon anniversaire est en mars.",
+  "en": "My birthday is in March.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-06",
+  "fr": "L'année commence en janvier.",
+  "en": "The year begins in January.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-07",
+  "fr": "Une semaine compte sept jours.",
+  "en": "A week has seven days.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-08",
+  "fr": "Un mois compte environ trente jours.",
+  "en": "A month has about thirty days.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-09",
+  "fr": "Une année compte douze mois.",
+  "en": "A year has twelve months.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-10",
+  "fr": "Nous sommes en saison des pluies.",
+  "en": "We are in the rainy season.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-11",
+  "fr": "Nous sommes en saison sèche.",
+  "en": "We are in the dry season.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-12",
+  "fr": "Aujourd'hui est un jour férié.",
+  "en": "Today is a public holiday.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-13",
+  "fr": "Nous avons rendez-vous demain.",
+  "en": "We have an appointment tomorrow.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-14",
+  "fr": "Je suis né au mois d'août.",
+  "en": "I was born in August.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-15",
+  "fr": "Quel jour sommes-nous ?",
+  "en": "What day is it today?",
+  "moundang": ""
+ },
+ {
+  "id": "s14-16",
+  "fr": "Quelle est la date d'aujourd'hui ?",
+  "en": "What is today's date?",
+  "moundang": ""
+ },
+ {
+  "id": "s14-17",
+  "fr": "Ce mois passe vite.",
+  "en": "This month is passing quickly.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-18",
+  "fr": "L'année touche à sa fin.",
+  "en": "The year is coming to an end.",
+  "moundang": ""
+ },
+ {
+  "id": "s14-19",
+  "fr": "Bonne année !",
+  "en": "Happy New Year!",
+  "moundang": ""
+ },
+ {
+  "id": "s14-20",
+  "fr": "Passe un bon week-end !",
+  "en": "Have a nice weekend!",
+  "moundang": ""
+ }
+]

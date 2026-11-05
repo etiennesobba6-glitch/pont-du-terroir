@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s15-01",
+  "fr": "Quel temps fait-il aujourd'hui ?",
+  "en": "What's the weather like today?",
+  "moundang": ""
+ },
+ {
+  "id": "s15-02",
+  "fr": "Il fait beau.",
+  "en": "The weather is nice.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-03",
+  "fr": "Il fait chaud.",
+  "en": "It is hot.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-04",
+  "fr": "Il fait froid.",
+  "en": "It is cold.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-05",
+  "fr": "Il pleut.",
+  "en": "It is raining.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-06",
+  "fr": "Il va pleuvoir.",
+  "en": "It is going to rain.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-07",
+  "fr": "Le soleil brille.",
+  "en": "The sun is shining.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-08",
+  "fr": "Le ciel est couvert.",
+  "en": "The sky is cloudy.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-09",
+  "fr": "Il y a du vent.",
+  "en": "It is windy.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-10",
+  "fr": "Il y a de l'orage.",
+  "en": "There is a thunderstorm.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-11",
+  "fr": "La pluie est forte.",
+  "en": "The rain is heavy.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-12",
+  "fr": "Il fait frais ce matin.",
+  "en": "It is cool this morning.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-13",
+  "fr": "La chaleur est intense aujourd'hui.",
+  "en": "It is very hot today.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-14",
+  "fr": "La saison des pluies a commencé.",
+  "en": "The rainy season has begun.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-15",
+  "fr": "La saison sèche est arrivée.",
+  "en": "The dry season has arrived.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-16",
+  "fr": "Prenez un parapluie.",
+  "en": "Take an umbrella.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-17",
+  "fr": "Porte un pull, il fait froid.",
+  "en": "Wear a sweater; it is cold.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-18",
+  "fr": "Restons à l'abri de la pluie.",
+  "en": "Let's stay out of the rain.",
+  "moundang": ""
+ },
+ {
+  "id": "s15-19",
+  "fr": "Quel beau temps !",
+  "en": "What beautiful weather!",
+  "moundang": ""
+ },
+ {
+  "id": "s15-20",
+  "fr": "J'aime ce temps.",
+  "en": "I like this weather.",
+  "moundang": ""
+ }
+]

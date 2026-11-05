@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s28-01",
+  "fr": "Bonjour, je voudrais une chambre.",
+  "en": "Hello, I would like a room.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-02",
+  "fr": "Avez-vous une chambre libre ?",
+  "en": "Do you have a vacant room?",
+  "moundang": ""
+ },
+ {
+  "id": "s28-03",
+  "fr": "Pour combien de nuits ?",
+  "en": "For how many nights?",
+  "moundang": ""
+ },
+ {
+  "id": "s28-04",
+  "fr": "Je reste deux nuits.",
+  "en": "I am staying for two nights.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-05",
+  "fr": "Combien coûte la chambre ?",
+  "en": "How much is the room?",
+  "moundang": ""
+ },
+ {
+  "id": "s28-06",
+  "fr": "La chambre est propre.",
+  "en": "The room is clean.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-07",
+  "fr": "La chambre est confortable.",
+  "en": "The room is comfortable.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-08",
+  "fr": "Voici la clé de votre chambre.",
+  "en": "Here is the key to your room.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-09",
+  "fr": "Le petit-déjeuner est inclus.",
+  "en": "Breakfast is included.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-10",
+  "fr": "À quelle heure est le petit-déjeuner ?",
+  "en": "What time is breakfast?",
+  "moundang": ""
+ },
+ {
+  "id": "s28-11",
+  "fr": "J'ai besoin d'une serviette.",
+  "en": "I need a towel.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-12",
+  "fr": "Pouvez-vous nettoyer la chambre ?",
+  "en": "Can you clean the room?",
+  "moundang": ""
+ },
+ {
+  "id": "s28-13",
+  "fr": "Il n'y a pas d'eau chaude.",
+  "en": "There is no hot water.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-14",
+  "fr": "Le Wi-Fi fonctionne bien.",
+  "en": "The Wi-Fi works well.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-15",
+  "fr": "Je voudrais régler la facture.",
+  "en": "I would like to pay the bill.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-16",
+  "fr": "Voici votre reçu.",
+  "en": "Here is your receipt.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-17",
+  "fr": "Merci pour votre hospitalité.",
+  "en": "Thank you for your hospitality.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-18",
+  "fr": "J'ai passé un agréable séjour.",
+  "en": "I had a pleasant stay.",
+  "moundang": ""
+ },
+ {
+  "id": "s28-19",
+  "fr": "Bon séjour !",
+  "en": "Enjoy your stay!",
+  "moundang": ""
+ },
+ {
+  "id": "s28-20",
+  "fr": "Au revoir et à bientôt.",
+  "en": "Goodbye and see you soon.",
+  "moundang": ""
+ }
+]

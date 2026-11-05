@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s26-01",
+  "fr": "Excusez-moi, pouvez-vous m'aider ?",
+  "en": "Excuse me, can you help me?",
+  "moundang": ""
+ },
+ {
+  "id": "s26-02",
+  "fr": "Où se trouve la mairie ?",
+  "en": "Where is the town hall?",
+  "moundang": ""
+ },
+ {
+  "id": "s26-03",
+  "fr": "Où est le marché ?",
+  "en": "Where is the market?",
+  "moundang": ""
+ },
+ {
+  "id": "s26-04",
+  "fr": "Où est l'hôpital ?",
+  "en": "Where is the hospital?",
+  "moundang": ""
+ },
+ {
+  "id": "s26-05",
+  "fr": "Où est l'école ?",
+  "en": "Where is the school?",
+  "moundang": ""
+ },
+ {
+  "id": "s26-06",
+  "fr": "Allez tout droit.",
+  "en": "Go straight ahead.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-07",
+  "fr": "Prenez la première rue à gauche.",
+  "en": "Take the first street on the left.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-08",
+  "fr": "Prenez la deuxième rue à droite.",
+  "en": "Take the second street on the right.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-09",
+  "fr": "C'est près d'ici.",
+  "en": "It is near here.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-10",
+  "fr": "C'est loin d'ici.",
+  "en": "It is far from here.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-11",
+  "fr": "C'est en face de l'église.",
+  "en": "It is opposite the church.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-12",
+  "fr": "C'est à côté de la banque.",
+  "en": "It is next to the bank.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-13",
+  "fr": "Traversez la route.",
+  "en": "Cross the road.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-14",
+  "fr": "Continuez jusqu'au carrefour.",
+  "en": "Continue to the crossroads.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-15",
+  "fr": "Tournez après le pont.",
+  "en": "Turn after the bridge.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-16",
+  "fr": "Vous ne pouvez pas le manquer.",
+  "en": "You can't miss it.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-17",
+  "fr": "Merci pour votre aide.",
+  "en": "Thank you for your help.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-18",
+  "fr": "Je suis arrivé grâce à vous.",
+  "en": "I found my way thanks to you.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-19",
+  "fr": "Passez une bonne journée.",
+  "en": "Have a nice day.",
+  "moundang": ""
+ },
+ {
+  "id": "s26-20",
+  "fr": "Au revoir !",
+  "en": "Goodbye!",
+  "moundang": ""
+ }
+]

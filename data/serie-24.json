@@ -1,0 +1,122 @@
+[
+ {
+  "id": "s24-01",
+  "fr": "Je vais en ville.",
+  "en": "I am going to town.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-02",
+  "fr": "Je rentre à la maison.",
+  "en": "I am going home.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-03",
+  "fr": "Viens avec moi.",
+  "en": "Come with me.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-04",
+  "fr": "Allons ensemble.",
+  "en": "Let's go together.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-05",
+  "fr": "Marche doucement.",
+  "en": "Walk slowly.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-06",
+  "fr": "Marche plus vite.",
+  "en": "Walk faster.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-07",
+  "fr": "Arrête-toi un instant.",
+  "en": "Stop for a moment.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-08",
+  "fr": "Attends-moi ici.",
+  "en": "Wait for me here.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-09",
+  "fr": "Je suis déjà arrivé.",
+  "en": "I have already arrived.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-10",
+  "fr": "Nous sommes en route.",
+  "en": "We are on our way.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-11",
+  "fr": "Le chemin est long.",
+  "en": "The road is long.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-12",
+  "fr": "Le chemin est court.",
+  "en": "The road is short.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-13",
+  "fr": "Fais attention en traversant la route.",
+  "en": "Be careful when crossing the road.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-14",
+  "fr": "Traverse au passage piéton.",
+  "en": "Cross at the pedestrian crossing.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-15",
+  "fr": "Tourne à gauche.",
+  "en": "Turn left.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-16",
+  "fr": "Tourne à droite.",
+  "en": "Turn right.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-17",
+  "fr": "Continue tout droit.",
+  "en": "Go straight ahead.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-18",
+  "fr": "Nous sommes presque arrivés.",
+  "en": "We are almost there.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-19",
+  "fr": "Le voyage s'est bien passé.",
+  "en": "The journey went well.",
+  "moundang": ""
+ },
+ {
+  "id": "s24-20",
+  "fr": "Bon voyage !",
+  "en": "Have a good trip!",
+  "moundang": ""
+ }
+]
