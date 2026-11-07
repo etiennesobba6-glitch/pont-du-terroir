@@ -1,0 +1,58 @@
+name: Construire l'APK
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le projet
+        uses: actions/checkout@v4
+
+      - name: Installer Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Installer Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Préparer les fichiers de l'application
+        run: |
+          mkdir www
+          cp -r index.html style.css app.js data audio www/
+
+      - name: Installer Capacitor
+        run: npm install
+
+      - name: Créer le projet Android
+        run: |
+          npx cap add android
+          npx cap sync android
+
+      - name: Construire l'APK
+        working-directory: android
+        run: ./gradlew assembleDebug
+
+      - name: Nommer le fichier
+        run: cp android/app/build/outputs/apk/debug/app-debug.apk pont-du-terroir.apk
+
+      - name: Conserver l'APK (onglet Actions)
+        uses: actions/upload-artifact@v4
+        with:
+          name: pont-du-terroir-apk
+          path: pont-du-terroir.apk
+
+      - name: Publier l'APK (onglet Releases)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: apk-${{ github.run_number }}
+          name: Pont du terroir (APK ${{ github.run_number }})
+          files: pont-du-terroir.apk
