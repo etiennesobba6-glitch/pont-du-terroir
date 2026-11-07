@@ -3,19 +3,19 @@
   "id": "s12-01",
   "fr": "Combien y en a-t-il ?",
   "en": "How many are there?",
-  "moundang": ""
+  "moundang": "A kəɗəne? '"
  },
  {
   "id": "s12-02",
   "fr": "Il y en a un.",
   "en": "There is one.",
-  "moundang": ""
+  "moundang": "A voŋno."
  },
  {
   "id": "s12-03",
   "fr": "Il y en a deux.",
   "en": "There are two.",
-  "moundang": ""
+  "moundang": "A gwaa"
  },
  {
   "id": "s12-04",
@@ -27,96 +27,96 @@
   "id": "s12-05",
   "fr": "Elle a quatre enfants.",
   "en": "She has four children.",
-  "moundang": ""
+  "moundang": "Ame ne liivər sai."
  },
  {
   "id": "s12-06",
   "fr": "Nous sommes cinq.",
   "en": "There are five of us.",
-  "moundang": ""
+  "moundang": "Ru za dappe."
  },
  {
   "id": "s12-07",
   "fr": "Compte jusqu'à dix.",
   "en": "Count to ten.",
-  "moundang": ""
+  "moundang": "Mo kee fan ka təŋ tə vaŋno ka dai jamma"
  },
  {
   "id": "s12-08",
   "fr": "Ajoute deux à trois.",
   "en": "Add two to three.",
-  "moundang": ""
+  "moundang": "Mo rək gwaa ge tə sai."
  },
  {
   "id": "s12-09",
   "fr": "Deux plus trois font cinq.",
   "en": "Two plus three equals five.",
-  "moundang": ""
+  "moundang": "Gwaa tai ne sai joŋ dappe."
  },
  {
   "id": "s12-10",
   "fr": "Dix moins quatre font six.",
   "en": "Ten minus four equals six.",
-  "moundang": ""
+  "moundang": "Jamma nəə ge lal nai a soɓ yea"
  },
  {
   "id": "s12-11",
   "fr": "Trois fois quatre font douze.",
   "en": "Three times four equals twelve.",
-  "moundang": ""
+  "moundang": "Sai sai zahləŋ nai a joŋ jamma tətəl gwaa."
  },
  {
   "id": "s12-12",
   "fr": "Douze divisé par trois font quatre.",
   "en": "Twelve divided by three equals four.",
-  "moundang": ""
+  "moundang": "Jamma tətəl gwaa ɓəl kəsyil sai a joŋ nai."
  },
  {
   "id": "s12-13",
   "fr": "Quel est le résultat ?",
   "en": "What is the answer?",
-  "moundang": ""
+  "moundang": "A lwaa kəɗəne?"
  },
  {
   "id": "s12-14",
   "fr": "La réponse est correcte.",
   "en": "The answer is correct.",
-  "moundang": ""
+  "moundang": "Zyii fii ah a pəsãhe."
  },
  {
   "id": "s12-15",
   "fr": "Tu t'es trompé.",
   "en": "You made a mistake.",
-  "moundang": ""
+  "moundang": "Mo zyak ɓo."
  },
  {
   "id": "s12-16",
   "fr": "Recommence le calcul.",
   "en": "Do the calculation again.",
-  "moundang": ""
+  "moundang": "Mo jin təŋ mor in lisaafi ah pəfuu."
  },
  {
   "id": "s12-17",
   "fr": "Ce nombre est grand.",
   "en": "This number is large.",
-  "moundang": ""
+  "moundang": "Pãa fan mai a pəlii."
  },
  {
   "id": "s12-18",
   "fr": "Ce nombre est petit.",
   "en": "This number is small.",
-  "moundang": ""
+  "moundang": "Pãa fan mai a mbiŋ."
  },
  {
   "id": "s12-19",
   "fr": "Écris le nombre en lettres.",
   "en": "Write the number in words.",
-  "moundang": ""
+  "moundang": "Mo wŋəə pãa ah ne syel masyin."
  },
  {
   "id": "s12-20",
   "fr": "Les mathématiques sont intéressantes.",
   "en": "Mathematics is interesting.",
-  "moundang": ""
+  "moundang": "A pəsãh ka tan liisafi."
  }
 ]
