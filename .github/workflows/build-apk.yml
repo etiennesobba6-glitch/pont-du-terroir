@@ -27,7 +27,7 @@ jobs:
       - name: Préparer les fichiers de l'application
         run: |
           mkdir www
-          cp -r index.html style.css app.js data audio www/
+          cp -r index.html style.css app.js logo.png data audio www/
 
       - name: Installer Capacitor
         run: npm install
@@ -36,6 +36,9 @@ jobs:
         run: |
           npx cap add android
           npx cap sync android
+
+      - name: Installer l'icône de l'application
+        run: cp -r android-icons/. android/app/src/main/res/
 
       - name: Construire l'APK
         working-directory: android

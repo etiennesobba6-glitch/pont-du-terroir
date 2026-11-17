@@ -164,3 +164,13 @@ a.serie:active { background: var(--vert-clair); }
 }
 .info { color: #55675c; }
 .pied { text-align: center; padding: 20px 16px 32px; color: #6b7d72; font-size: .85rem; }
+
+.logo {
+  display: block;
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 8px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .25);
+}
